@@ -441,6 +441,10 @@ programming language!
 The more you use a language, the more comfortable you get with it. The more
 comfortable you get with it, the easier it is to "think" in that language.
 
+## You Do: Javascript vs. Python Lab 
+
+[Convert some JS functions into Python functions to really see the differences](https://git.generalassemb.ly/seir-129/python-v-js/blob/master/README.md)
+
 ## Additional Resources
 
 - [Python Docs](https://docs.python.org/3/)
