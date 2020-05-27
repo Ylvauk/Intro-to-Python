@@ -386,11 +386,7 @@ Here's the recap of the bouncer rules:
 
 ## You Do: Data Types Exercises (15 min / 1:00)
 
-[Data Types](./data_types.py)
-
-Open exercise 1, `data-types.md`. Read the prompts and try to figure out the
-answer. Write your guess in the answer area below each question. Then run the
-code to see if you got it right!
+Open [Data Types](https://git.generalassemb.ly/seir-323/intro-to-python/blob/master/data-types.py) and work through the prompts.
 
 ## Break (10 min / 1:10)
 
@@ -644,11 +640,6 @@ len(sei_class)
 
 > Note that there is no array.length property!
 
-## You Do: Data Collections Exercises
-
-> 15 minutes exercise. 5 minutes review.
-
-Complete the second set of exercises (Exercise II: Data Collections) [here](https://git.generalassemb.ly/ga-dc-wdi-python/python-basics-exercises).
 
 ## Functions
 
