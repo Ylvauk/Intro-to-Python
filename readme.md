@@ -20,7 +20,7 @@ By the end of this, developers should be able to:
 
 Python is a high-level, general purpose programming language created by Guido
 van Rossum in 1991. It is the
-[third](https://stackify.com/popular-programming-languages-2018/) most used
+[fourth](https://stackify.com/popular-programming-languages-2018/) most used
 programming language behind Java, C, C++, and C#. Python can be used for data
 science, devops, or general purpose programming. In this class, we will be using
 it as a server-side, "back-end" programming language.
@@ -386,9 +386,7 @@ Here's the recap of the bouncer rules:
 
 ## You Do: Data Types Exercises (15 min / 1:00)
 
-Clone down the following lesson:
-
-https://git.generalassemb.ly/ga-dc-wdi-python/python-basics-exercises
+[Data Types](./data_types.py)
 
 Open exercise 1, `data-types.md`. Read the prompts and try to figure out the
 answer. Write your guess in the answer area below each question. Then run the
@@ -650,8 +648,7 @@ len(sei_class)
 
 > 15 minutes exercise. 5 minutes review.
 
-Complete the second set of exercises (Exercise II: Data Collections) in
-[this repo](https://git.generalassemb.ly/ga-dc-wdi-python/python-basics-exercises).
+Complete the second set of exercises (Exercise II: Data Collections) [here](https://git.generalassemb.ly/ga-dc-wdi-python/python-basics-exercises).
 
 ## Functions
 
@@ -699,9 +696,7 @@ double()
 <img src="https://media.giphy.com/media/l4FGw4d101Sa0pGTe/giphy.gif" margin-left="24%"/>
 
 Break out in to groups of 3, then, with your group, compare and contrast again
-what you know about JavaScript with what you now know about Python on the
-whiteboard. You can do this with a table, a mind map or however you think is
-best.
+what you know about JavaScript with what you now know about Python. 
 
 Some things to think about:
 
@@ -717,8 +712,12 @@ challenging to learn programming and a programming language at the same time
 and a programming language (JavaScript), you only need to learn the new
 programming language!
 
-The better you learn a language, the more comfortable you get with it. The more
+The more you use a language, the more comfortable you get with it. The more
 comfortable you get with it, the easier it is to "think" in that language.
+
+## You Do: Javascript vs. Python Lab 
+
+[Convert some JS functions into Python functions to really see the differences](https://git.generalassemb.ly/seir-323/python-v-js/blob/master/README.md)
 
 ## Additional Resources
 
@@ -726,20 +725,6 @@ comfortable you get with it, the easier it is to "think" in that language.
 - [Python Starter](https://git.generalassemb.ly/dc-wdi-python-django/python-starter)
 - [Python Beginner Tutorial (Docs)](https://docs.python.org/3/tutorial/index.html)
 
-## Bonus
-
-### [Pyenv](https://github.com/pyenv/pyenv)
-
-Something we'll have to worry about in Python that we didn't have to worry about
-in Node is managing multiple versions of the programming language on your
-laptop. That's why we used the `pip3` and `python3` commands throughout this
-lesson, we want to use the latest version of Python.
-
-This can become tedious and annoying, so developers have build tools to manage
-which version of Python is "active" on their computer at a given time, one of
-which is [Pyenv](https://github.com/pyenv/pyenv). It's easy to set up and will
-let you manage the multiple versions of Python you already have installed on
-your laptop.
 
 ## [License](LICENSE)
 
