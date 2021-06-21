@@ -19,9 +19,8 @@ By the end of this, developers should be able to:
 ## What is Python? (5 min / 0:05)
 
 Python is a high-level, general purpose programming language created by Guido
-van Rossum in 1991. It is the
-[third](https://stackify.com/popular-programming-languages-2018/) most used
-programming language behind Java and C. Python can be used for data
+van Rossum in 1991. It is one of the most popular
+programming languages. Python can be used for data
 science, devops, or general purpose programming. In this class, we will be using
 it as a server-side, "back-end" programming language.
 
