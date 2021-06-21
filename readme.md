@@ -19,7 +19,7 @@ By the end of this, developers should be able to:
 ## What is Python? (5 min / 0:05)
 
 Python is a high-level, general purpose programming language created by Guido
-van Rossum in 1991. It is one of the most popular
+van Rossum in 1991.  It was mainly developed for emphasis on code readability, and its syntax allows programmers to express concepts in fewer lines of code.  Not surprisingly, it is one of the most popular
 programming languages. Python can be used for data
 science, devops, or general purpose programming. In this class, we will be using
 it as a server-side, "back-end" programming language.
