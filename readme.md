@@ -385,7 +385,7 @@ Here's the recap of the bouncer rules:
 
 ## You Do: Data Types Exercises (15 min / 1:00)
 
-Open [Data Types](https://git.generalassemb.ly/sei-921/intro-to-python/blob/master/data-types.py) and work through the prompts.
+Open [Data Types](../../blob/master/data-types.py) and work through the prompts.
 
 ## Break (10 min / 1:10)
 
@@ -679,7 +679,7 @@ double()
 
 > 15 minutes exercise. 10 minutes review.
 
-[Temperature Converter (Python)](https://git.generalassemb.ly/ga-dc-wdi-python/temperature-converter-python)
+[Temperature Converter (Python)](../../../temperature-converter-python)
 
 ## Compare and Contrast
 
@@ -707,7 +707,7 @@ comfortable you get with it, the easier it is to "think" in that language.
 
 ## You Do: Javascript vs. Python Lab 
 
-[Convert some JS functions into Python functions to really see the differences](https://git.generalassemb.ly/sei-921/python-v-js/blob/master/README.md)
+[Convert some JS functions into Python functions to really see the differences](../../../python-v-js/blob/master/README.md)
 
 ## Additional Resources
 
