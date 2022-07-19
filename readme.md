@@ -669,13 +669,10 @@ def double(number=5):
 double()
 # => 10
 ```
-## You Do: Data Types Exercises (15 min / 1:00)
-
+## You Do: Data Types Exercises
 Open [Data Types](../../blob/master/data-types.py) and work through the prompts.
 
 ## You do: Exercise: Temperature Converter
-
-> 15 minutes exercise. 10 minutes review.
 
 [Temperature Converter (Python)](../../../temperature-converter-python)
 
