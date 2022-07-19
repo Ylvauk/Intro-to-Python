@@ -383,10 +383,6 @@ Here's the recap of the bouncer rules:
 > Bonus: if age is 18 or older, but under 21, output that the person can enter
 > the bar but cannot drink!
 
-## You Do: Data Types Exercises (15 min / 1:00)
-
-Open [Data Types](../../blob/master/data-types.py) and work through the prompts.
-
 ## Break (10 min / 1:10)
 
 ## Lists & Collections(15 min / 1:30)
@@ -514,7 +510,6 @@ numbers.remove(2)
 numbers
 # => [3, 1, 2, 4]
 ```
-
 ## Dictionary
 
 A Python dictionary is an unordered collection organized by key-value pairs. A
@@ -674,6 +669,9 @@ def double(number=5):
 double()
 # => 10
 ```
+## You Do: Data Types Exercises (15 min / 1:00)
+
+Open [Data Types](../../blob/master/data-types.py) and work through the prompts.
 
 ## You do: Exercise: Temperature Converter
 
