@@ -242,8 +242,8 @@ This works fine. Things aren't so simple when that variable is of a different
 data type. Like a number:
 
 ```py
-class_number = 32
-# => 32
+class_number = 59
+# => 59
 
 print("I am teaching SEI " + class_number)
 # TypeError: must be str, not int
