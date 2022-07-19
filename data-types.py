@@ -17,12 +17,11 @@ planeteers = ["Earth", "Wind", "Captain Planet", "Fire", "Water"]
 
 
 # Randomize the contents of `heroes` using a function. 
-# The Python documentation might help: https://docs.python.org/2/library/random.html
+# The Python documentation might help: https://docs.python.org/3/library/random.html
 
 
 # Bonus: Select a random element from `heroes` using a function
-# The Python documentation might help: https://docs.python.org/2/library/random.html
-
+# The Python documentation might help: https://docs.python.org/3/library/random.html
 
 # Initialize a dictionary called `ninja_turtle` with the properties `name`, `weapon` and `radical`
 # They should have values of "Michelangelo", "Nunchuks" and a true boolean, respectively
